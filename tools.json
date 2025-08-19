@@ -13,7 +13,7 @@
         "tags": ["geospatial electrification"],
         "geospatial": true,
         "os": false,
-        "website": "https://referenceelectrificationmodel.github.io/"
+        "website": "https://tatacenter.mit.edu/portfolio/reference-electrification-model-a-tool-for-rural-electrification-planning/"
     },
     {
         "name": "HOMER (Hybrid Optimization of Multiple Energy Resources)",
@@ -29,7 +29,7 @@
         "tags": ["mini-grid optimization"],
         "geospatial": false,
         "os": true,
-        "website": "https://github.com/energy-modelling-toolkit/MicroGridsPy"
+        "website": "https://github.com/SESAM-Polimi/MicroGridsPy-SESAM"
     },
     {
         "name": "Odyssey",
@@ -37,7 +37,7 @@
         "tags": ["platform", "monitoring"],
         "geospatial": true,
         "os": false,
-        "website": "https://www.odyssey.energy/"
+        "website": "https://odysseyenergysolutions.com/"
     },
     {
         "name": "OffGridPlanner",
@@ -53,7 +53,7 @@
         "tags": ["mini-grid optimization"],
         "geospatial": true,
         "os": true,
-        "website": "https://onsset.github.io/"
+        "website": "https://github.com/SEforALL-IEAP/OMG"
     },
     {
         "name": "Prospect",
@@ -93,7 +93,7 @@
         "tags": ["visualization", "platform"],
         "geospatial": true,
         "os": false,
-        "website": "https://village-data.com/"
+        "website": "https://vida.place/solutions/people-centric-infrastructure"
     },
     {
         "name": "OpenEnergyMaps",
@@ -106,17 +106,17 @@
     {
         "name": "Global Electrification Platform (GEP)",
         "description": "The Global Electrification Platform (GEP) is an open-source, interactive geospatial planning tool developed by the World Bank and partners to support electricity access strategies worldwide. It provides settlement-level data, demand projections, and least-cost electrification pathways by comparing grid extension, mini-grids, and standalone systems. GEP enables policymakers, researchers, and development partners to analyze scenarios for achieving universal electricity access.",
-        "tags": ["platform", "geospatial electrification"],
+        "tags": ["platform", "geospatial electrification", "visualization"],
         "geospatial": true,
         "os": true,
-        "website": "https://electrification.energydata.info/"
+        "website": "https://electrifynow.energydata.info/"
     },
     {
         "name": "DRE Atlas (Decentralized Renewable Energy Atlas)",
         "description": "The DRE Atlas is a data visualization and mapping platform that highlights the deployment and potential of decentralized renewable energy (DRE) solutions, particularly mini-grids, solar home systems, and productive use technologies. It integrates geospatial and market data to showcase progress in energy access, support investment decisions, and track sector growth across regions. The tool is intended for policymakers, investors, and practitioners working in decentralized energy markets.",
         "tags": ["platform", "visualization", "site identification"],
         "geospatial": true,
-        "os": true,
-        "website": "https://dreatlas.org/"
+        "os": false,
+        "website": "https://dre.energydata.info/"
     }
 ]
