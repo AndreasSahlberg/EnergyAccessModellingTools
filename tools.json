@@ -1,0 +1,122 @@
+[
+    {
+        "name": "OnSSET (Open Source Spatial Electrification Tool)",
+        "description": "OnSSET is an open-source geospatial modeling tool designed to support long-term electricity planning, particularly for rural electrification in developing countries. It uses spatial data such as population distribution, energy demand, existing infrastructure, renewable energy resources, and technology costs to identify least-cost electrification pathways. By comparing grid extension, mini-grid, and standalone system options, OnSSET helps policymakers, planners, and researchers evaluate electrification strategies and investment priorities at national or regional scales.",
+        "tags": ["geospatial electrification"],
+        "geospatial": true,
+        "os": true,
+        "website": "https://github.com/onsset"
+    },
+    {
+        "name": "REM (Reference Electrification Model)",
+        "description": "REM is a geospatially driven, open-source modeling tool developed by MIT and collaborators to support electrification planning. It optimizes least-cost electricity access strategies by analyzing grid extension, mini-grid, and off-grid solutions. REM integrates population data, demand forecasts, costs, and geographic information to design detailed electrification plans, often at village or household level, making it suitable for policymakers, utilities, and NGOs focused on expanding energy access.",
+        "tags": ["geospatial electrification"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://referenceelectrificationmodel.github.io/"
+    },
+    {
+        "name": "HOMER (Hybrid Optimization of Multiple Energy Resources)",
+        "description": "HOMER is a widely used commercial software for designing and optimizing hybrid renewable energy systems. It allows users to simulate different combinations of energy resources—such as solar, wind, diesel, hydro, and storage—and evaluate them based on cost, reliability, and technical feasibility. HOMER is particularly useful for microgrid design, rural electrification, and distributed energy projects, helping developers, engineers, and policymakers identify least-cost and sustainable energy solutions.",
+        "tags": ["mini-grid optimization"],
+        "geospatial": false,
+        "os": false,
+        "website": "https://www.homerenergy.com/"
+    },
+    {
+        "name": "MicroGridsPy",
+        "description": "MicroGridsPy is an open-source Python-based simulation and optimization tool designed for microgrid planning and analysis. It enables users to model hybrid energy systems, evaluate technical performance, and optimize investment decisions. The tool supports multi-year simulations, integration of renewable resources, storage technologies, and demand-side management. Its flexibility and open-source nature make it suitable for researchers, developers, and decision-makers working on energy access and decentralized energy systems.",
+        "tags": ["mini-grid optimization"],
+        "geospatial": false,
+        "os": true,
+        "website": "https://github.com/energy-modelling-toolkit/MicroGridsPy"
+    },
+    {
+        "name": "Odyssey",
+        "description": "Odyssey is a cloud-based platform designed to support the development, financing, and management of mini-grid and decentralized energy projects. It provides tools for data management, financial modeling, performance monitoring, and portfolio management, enabling project developers, financiers, and governments to scale up energy access initiatives. By standardizing project data and processes, Odyssey facilitates investment flows into distributed energy systems, particularly in emerging markets.",
+        "tags": ["platform", "monitoring"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://www.odyssey.energy/"
+    },
+    {
+        "name": "OffGridPlanner",
+        "description": "OffGridPlanner is a geospatial planning tool developed to support decision-making in rural electrification. It allows users to analyze spatial data on settlements, demand, infrastructure, and renewable energy resources in order to identify least-cost electrification pathways. The tool compares grid extension, mini-grid, and standalone solar options, providing planners with transparent insights for energy access strategies.",
+        "tags": ["mini-grid optimization"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://offgridplanner.org/"
+    },
+    {
+        "name": "OnSSET for Mini-Grids",
+        "description": "OnSSET for Mini-Grids is an adaptation of the Open Source Spatial Electrification Tool that specifically focuses on mini-grid development. It uses spatially explicit data on population, demand, renewable resources, and costs to optimize the deployment of mini-grid systems. This variant provides more detailed modeling for decentralized energy solutions, helping planners evaluate investment priorities for rural electrification through community-scale systems.",
+        "tags": ["mini-grid optimization"],
+        "geospatial": true,
+        "os": true,
+        "website": "https://onsset.github.io/"
+    },
+    {
+        "name": "Prospect",
+        "description": "Prospect is an energy planning and financial modeling tool developed by SEforALL and partners to assess electrification investment needs. It allows users to simulate and evaluate electricity access scenarios, incorporating cost data, demand growth, and policy assumptions. The platform provides insights for governments, investors, and development partners to prioritize funding and policy measures in support of universal energy access.",
+        "tags": ["platform", "monitoring"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://www.seforall.org/prospect"
+    },
+    {
+        "name": "NRECA International Tools",
+        "description": "The National Rural Electric Cooperative Association (NRECA) develops a suite of tools to support rural electrification planning and cooperative utility management. These tools range from geospatial electrification models to financial planning and performance monitoring systems. NRECA’s solutions are designed to help utilities and governments expand and sustain electricity access in underserved regions.",
+        "tags": ["geospatial electrification"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://www.nrecainternational.coop/"
+    },
+    {
+        "name": "Illustreets",
+        "description": "Illustreets is a data visualization and mapping platform originally developed to help local governments and communities understand demographic and geographic information. In the energy access context, it can be adapted to display socio-economic and infrastructure data, helping stakeholders integrate community-level insights into electrification planning.",
+        "tags": ["visualization", "platform"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://illustreets.co.uk/"
+    },
+    {
+        "name": "Energy Access Explorer",
+        "description": "Energy Access Explorer is an open-access, interactive, geospatial platform developed by the World Resources Institute (WRI). It integrates data on population, electricity infrastructure, renewable energy potential, and socio-economic indicators to help stakeholders identify areas with the greatest need and opportunity for energy access interventions. The tool supports governments, NGOs, and private sector actors in planning and investment decisions.",
+        "tags": ["visualization", "platform", "site identification"],
+        "geospatial": true,
+        "os": true,
+        "website": "https://www.energyaccessexplorer.org/"
+    },
+    {
+        "name": "VIDA (Village Data Analytics)",
+        "description": "VIDA is a data-driven platform designed to support rural electrification by providing settlement-level insights into energy demand, affordability, and infrastructure needs. It combines satellite imagery, machine learning, and socio-economic data to help governments, NGOs, and developers design effective electrification strategies. VIDA enables prioritization of investment and more accurate demand forecasting.",
+        "tags": ["visualization", "platform"],
+        "geospatial": true,
+        "os": false,
+        "website": "https://village-data.com/"
+    },
+    {
+        "name": "OpenEnergyMaps",
+        "description": "OpenEnergyMaps is an open-source initiative aimed at creating a comprehensive, publicly available geospatial database of energy infrastructure. It collects and visualizes data on electricity grids, renewable resources, and energy access indicators. The platform enables researchers, planners, and policymakers to analyze infrastructure gaps and opportunities for renewable energy deployment.",
+        "tags": ["demand", "platform"],
+        "geospatial": true,
+        "os": true,
+        "website": "https://openenergymaps.org/"
+    },
+    {
+        "name": "Global Electrification Platform (GEP)",
+        "description": "The Global Electrification Platform (GEP) is an open-source, interactive geospatial planning tool developed by the World Bank and partners to support electricity access strategies worldwide. It provides settlement-level data, demand projections, and least-cost electrification pathways by comparing grid extension, mini-grids, and standalone systems. GEP enables policymakers, researchers, and development partners to analyze scenarios for achieving universal electricity access.",
+        "tags": ["platform", "geospatial electrification"],
+        "geospatial": true,
+        "os": true,
+        "website": "https://electrification.energydata.info/"
+    },
+    {
+        "name": "DRE Atlas (Decentralized Renewable Energy Atlas)",
+        "description": "The DRE Atlas is a data visualization and mapping platform that highlights the deployment and potential of decentralized renewable energy (DRE) solutions, particularly mini-grids, solar home systems, and productive use technologies. It integrates geospatial and market data to showcase progress in energy access, support investment decisions, and track sector growth across regions. The tool is intended for policymakers, investors, and practitioners working in decentralized energy markets.",
+        "tags": ["platform", "visualization", "site identification"],
+        "geospatial": true,
+        "os": true,
+        "website": "https://dreatlas.org/"
+    }
+]
